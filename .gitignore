@@ -1,5 +1,9 @@
 # Docker stuff
+<<<<<<< HEAD
 .devcontainer/
+=======
+.devcontainter/
+>>>>>>> 1bd56b0136d19d3daeee5578550afcf170b994b1
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
