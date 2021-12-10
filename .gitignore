@@ -137,3 +137,6 @@ dmypy.json
 
 # images for training
 images/
+
+# saved model directory
+saved_model/
